@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# But keep the main files and folders we care about
+!.gitignore
+!main.py
+!requirements.txt
+!README.md
+!ESP32logic/
+!ESP32logic/**
