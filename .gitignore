@@ -6,5 +6,5 @@
 !main.py
 !requirements.txt
 !README.md
-!ESP32logic/
-!ESP32logic/**
+!ESP32logic.ino/
+!ESP32logic.ino/**
